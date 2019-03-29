@@ -1,0 +1,19 @@
+{
+  "name": "mocha-chai-test",
+  "version": "1.0.0",
+  "description": "Demo app for unit testing using Mocha-Chai",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reena-Koudi/Mocha-Chai-Istanbul.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reena-Koudi/Mocha-Chai-Istanbul/issues"
+  },
+  "homepage": "https://github.com/Reena-Koudi/Mocha-Chai-Istanbul#readme"
+}
