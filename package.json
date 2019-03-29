@@ -4,7 +4,7 @@
   "description": "Demo app for unit testing using Mocha-Chai",
   "main": "app.js",
   "scripts": {
-    "test": "mocha -r ts-node/register test/*.ts"
+    "test": "nyc mocha -r ts-node/register test/*.ts"
   },
   "repository": {
     "type": "git",
